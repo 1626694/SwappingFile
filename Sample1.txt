@@ -1,0 +1,1 @@
+This is a test of the sample 1 file. As you can see, when I am programming a certain command, it automatically recognizes this command.
